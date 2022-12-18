@@ -1,6 +1,10 @@
 # wikiSearch
 use wikidata to build a sys which is sopported by MySQL
 
+## ER graph
+![ER图](https://user-images.githubusercontent.com/32896063/208298184-94f99354-8c9d-4b50-9ed8-368df4348db3.png)
+
+
 ## please download wikidata from the pro website
 1. build a mysql database, then connect your database with your pycharm
 2. run read.py
