@@ -1,4 +1,4 @@
-# wikiSearch
+# wiki search
 use wikidata to build a sys which is sopported by MySQL
 
 ## ER graph
